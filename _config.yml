@@ -17,7 +17,10 @@ root: /
 permalink: posts/:abbrlink/
 permalink_defaults:
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7d34597b8083908f58710b63ee60b2c02a61e6b
 #auto-deploy
 admin:
   deployCommand: './hexo-deploy.sh'
